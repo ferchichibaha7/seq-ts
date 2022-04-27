@@ -1,2 +1,11 @@
-# seq-ts
-Created with CodeSandbox
+# sequelize-typescript-starter
+
+## Installation
+```
+npm install
+```
+
+## Start server
+```
+npm start
+```
